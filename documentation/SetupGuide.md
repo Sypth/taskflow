@@ -18,7 +18,7 @@ Follow these steps and run the provided commands to set up the project:
 - command: composer install
 - command: composer clear
 - command: composer dump-autoload
-- command: php artisan key:generate # make sure that .env file is already exist. If not, copy and rename .env.example into .env
+- command: php artisan key:generate 
 - command: npm i
 - command: npm run dev
 - command: php artisan serve
